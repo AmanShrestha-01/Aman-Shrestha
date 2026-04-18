@@ -34,6 +34,5 @@
 [Instagram](https://www.instagram.com/aman.shrestha_003)
 
 
-![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=003-Aman&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=003-Aman&layout=compact&theme=tokyonight)
+
 
